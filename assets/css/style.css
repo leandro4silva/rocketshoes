@@ -191,7 +191,7 @@ body.menu-expanded .menu .search input{
 
 
 body.menu-expanded .menu .search span::before{
-    content: url(/assets/icon/search.svg);
+    content: url(../../assets/icon/search.svg);
     position: absolute;
     top: 1.6rem;
     left: 1.2rem;
